@@ -1,0 +1,20 @@
+html{
+background-color: aqua;
+
+}
+h1{
+    text-align: center;
+    background-color: #333;
+    color: rgb(248, 240, 255);
+    padding: 10px;
+}
+#informaciok{
+    color: darkorchid;
+}
+h2{
+    text-align: center;
+    background-color: black;
+    color: rgb(248, 240, 255);
+    padding: 10px;
+
+}
